@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "VDIQTmV8K8B+kE8W1dyUfHfm0tTAVSiG3thbeEmZ62ZGmh43ONKOvUUM33eZlhERyYG5uSe+YE3TUdkJSqnHBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FNY01698\\Desktop\\API\\Elasticsearch\\Elasticsearch.API\\Elasticsearch.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FNY01698\\.nuget\\packages\\elastic.clients.elasticsearch\\8.9.3\\elastic.clients.elasticsearch.8.9.3.nupkg.sha512",
+    "C:\\Users\\FNY01698\\.nuget\\packages\\elastic.transport\\0.4.15\\elastic.transport.0.4.15.nupkg.sha512",
+    "C:\\Users\\FNY01698\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.11\\microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",
+    "C:\\Users\\FNY01698\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\FNY01698\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\FNY01698\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\FNY01698\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\FNY01698\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\FNY01698\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
